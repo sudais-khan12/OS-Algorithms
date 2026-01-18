@@ -133,7 +133,7 @@ int main()
         bool isSafe = SafetyAlgorithm(AllocatedResources, MaxResource, NeedResources, AvailableResources, SafeSequence, noOfProcesses, noOfResources);
         if (isSafe)
         {
-            cout << "\nYes, we can allocate and still be in safe state\n\n";
+            cout << "\nYes, we can allocate and still be in Safe state\n\n";
         }
         else
         {
