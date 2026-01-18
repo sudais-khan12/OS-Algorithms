@@ -38,7 +38,7 @@ bool SafetyAlgorithm(vector<vector<int>> AllocatedResources, vector<vector<int>>
 
     // for(int i=0; i<noOfProcesses; i++){
     //     if(!Finished[i]) cout<<i<<" NF\n";
-    //     else cout<<i<<" F\n";
+    //     else cout<<i<<" F";
     // }
 
     for (int i = 0; i < noOfProcesses; i++)
