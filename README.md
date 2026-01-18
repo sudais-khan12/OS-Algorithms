@@ -160,4 +160,4 @@ gcc FORK.c -o fork
 ./fork
 ```
 
-<sub><sup><span style="color:lightgrey;">Created by Sudais Khan</span></sup></sub>
+<sup><span style="color:lightgrey;">Created by Sudais Khan</span></sup>
